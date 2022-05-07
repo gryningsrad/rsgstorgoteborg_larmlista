@@ -1,0 +1,8 @@
+{
+  "domain": "rsgstorgoteborg_alarmlista",
+  "name": "Larmlista Storgöteborg",
+  "documentation": "https://github.com/gryningsrad/rsgstorgoteborg_larmlista",
+  "issue_tracker": "https://github.com/gryningsrad/rsgstorgoteborg_larmlista/issues",
+  "codeowners": ["@gryningsrad"],
+  "version": 0.0.1
+  }
